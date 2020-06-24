@@ -1,2 +1,3 @@
 # hello-world
-READMe
+getting started at github
+
